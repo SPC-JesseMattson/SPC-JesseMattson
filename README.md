@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jesse Mattson, a student at St Patrick's College!
+- 👀 I’m interested in software development and gaming!
+- 🌱 I’m currently learning VCE Unit 3/4 Software Development.
